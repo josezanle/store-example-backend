@@ -1,12 +1,15 @@
 # 🛠️ Django Store API
 
-    Este proyecto es una API REST construida con Django + Django REST Framework, dockerizada y lista para levantar en entorno local con PostgreSQL.
+    Este proyecto es una API REST construida con Django + Django REST Framework, dockerizada 
+    y lista para levantar en entorno local con PostgreSQL.
 
 ---
 
 ## ⚙️ Configuración del entorno
 
-    Antes de iniciar el proyecto, asegurate de tener un archivo `.env` en la raíz del proyecto. Ya se incluye un `.env.example` con valores funcionales para desarrollo, podes borra .example y ya funciona.
+    Antes de iniciar el proyecto, asegurate de tener un archivo `.env` 
+    en la raíz del proyecto. Ya se incluye un `.env.example` con valores 
+    funcionales para desarrollo, podes borra .example y ya funciona.
 
 ### 📦 Variables incluidas
 
