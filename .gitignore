@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.env
+*.venv/
+*.egg-info/
+*.coverage
+*.migrations/
+db.sqlite3
+
+# Django
+/staticfiles/
+/media/
+/local_settings.py
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Docker
+*.pid
+*.db
+.env
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (si usás frontend en el mismo repo)
+node_modules/
+dist/
+build/
