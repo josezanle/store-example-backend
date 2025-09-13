@@ -9,7 +9,7 @@
 
     Antes de iniciar el proyecto, asegurate de tener un archivo `.env` 
     en la raíz del proyecto. Ya se incluye un `.env.example` con valores 
-    funcionales para desarrollo, podes borra .example y ya funciona.
+    funcionales para desarrollo, podes borrar .example y ya funciona.
 
 ### 📦 Variables incluidas
 
